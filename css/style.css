@@ -28,6 +28,7 @@ body {
 }
 
 .triplesection {
+  position: relative;
   margin: 25px 140px 58px;
   width: 1180px;
   height: 410px;
@@ -89,10 +90,30 @@ body {
   font-size: 24px;
   font-weight: bold;
 }
+.uptext {
+  position: absolute;
+  font-size: 16px;
+  color: white;
+  top: 85px;
+  text-align: center;
+  width: 280px;
+  font-weight: bold;
+}
 
 /* left box */
+
 .photos {
   margin-bottom: 37px;
+  position: relative;
+}
+.uptext2 {
+  position: absolute;
+  font-size: 16px;
+  color: rgb(250, 250, 250);
+  top: 50%;
+  left: 50%;
+  width: 280px;
+  font-weight: bold;
 }
 
 .leftvertical {
@@ -101,6 +122,8 @@ body {
   display: inline-block;
 }
 .doubleboximg {
+  position: relative;
+  width: 740px;
   margin-left: 140px;
 }
 .bottom {
