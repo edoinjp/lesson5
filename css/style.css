@@ -1,0 +1,178 @@
+body {
+  background-color: #f6f8f9;
+  font-family: "Glory", sans-serif;
+  margin-top: 135px;
+}
+.navline {
+  display: inline-block;
+  height: 50px;
+}
+.panelp {
+  vertical-align: middle;
+}
+.logo1 {
+  padding: 18px 92px 17px 20px;
+  color: #fa6980;
+}
+.home1 {
+  padding: 20px 27px 18px 25px;
+  color: #343638;
+  font-weight: bold;
+}
+.dpc {
+  padding-right: 22px;
+  color: #a6adb4;
+}
+.panelimg {
+  padding-left: 18px;
+}
+
+.triplesection {
+  margin: 25px 140px 58px;
+  width: 1180px;
+  height: 410px;
+}
+.box {
+  background-color: #ffffff;
+  width: 360px;
+  height: 350px;
+  display: inline-block;
+}
+.boxtext {
+  width: 280px;
+  margin: 66px 40px;
+}
+.text {
+  font-size: 13px;
+  color: #a6adb4;
+}
+.leftbox {
+  margin-right: 35px;
+}
+.middlebox {
+  margin-right: 35px;
+}
+.timeimg {
+  padding-top: 10px;
+}
+.sectiontitle1 {
+  margin-bottom: 38px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.headpanel {
+  height: 50px;
+  width: 100%;
+  background-color: rgb(231, 252, 242);
+  position: fixed;
+  top: 0;
+  z-index: 20;
+}
+
+/* section 2  */
+
+.left2 {
+  display: inline-block;
+}
+.right2 {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 40px;
+}
+.img3margin {
+  padding: 102px 0;
+}
+
+.sectiontitle {
+  margin: 58px 530px 40px 140px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* left box */
+.photos {
+  margin-bottom: 37px;
+}
+
+.leftvertical {
+  width: 760px;
+  height: 900px;
+  display: inline-block;
+}
+.doubleboximg {
+  margin-left: 140px;
+}
+.bottom {
+  padding-top: 40px;
+}
+.leftttt {
+  display: inline-block;
+}
+
+/* right box */
+
+.right-tripleimg {
+  width: 360px;
+  height: 900px;
+  display: inline-block;
+}
+
+/* footer */
+.footerbox {
+  background-color: teal;
+  width: 100%;
+  height: 200px;
+  position: relative;
+  line-height: 1.5;
+}
+
+.infosection {
+  height: 84px;
+  position: absolute;
+  display: inline-block;
+  top: 56px;
+  left: 142px;
+}
+.ul {
+  display: inline-block;
+  color: #a6adb4;
+  font-size: 13px;
+}
+.ulmiddle {
+  margin-left: 70px;
+  margin-right: 86px;
+}
+.info {
+  display: inline-block;
+  height: 84;
+}
+.text3 {
+  position: absolute;
+  width: 243px;
+  height: 9px;
+  top: 62px;
+  right: 465px;
+  left: 733px;
+  font-size: 11px;
+  color: #a6adb4;
+}
+.socials {
+  position: absolute;
+  width: 160;
+  height: 16;
+  top: 56px;
+  right: 138px;
+}
+.logo {
+  display: inline-block;
+  width: 37px;
+  height: 13px;
+  color: #ffffff;
+  font: bold;
+  vertical-align: top;
+  margin-right: 89px;
+}
+.icon {
+  margin-right: 32px;
+}
