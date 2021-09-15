@@ -30,9 +30,10 @@ body {
 
 .triplesection {
   position: relative;
-  margin: 25px 140px 58px;
+
   width: 1180px;
   height: 410px;
+  margin: 0 auto;
 }
 .box {
   background-color: #ffffff;
@@ -75,19 +76,20 @@ body {
 /* section 2  */
 
 .left2 {
+  margin-right: 0 auto;
   display: inline-block;
+  margin-right: 50px;
 }
 .right2 {
   display: inline-block;
   vertical-align: top;
-  margin-left: 40px;
 }
 .img3margin {
   padding: 102px 0;
 }
 
 .sectiontitle {
-  margin: 58px 530px 40px 140px;
+  margin: 58px 530px 40px 170px;
   font-size: 24px;
   font-weight: bold;
 }
@@ -104,8 +106,9 @@ body {
 /* left box */
 
 .photos {
-  margin-bottom: 37px;
   position: relative;
+  margin: auto 30px;
+  margin-bottom: 37px;
 }
 .uptext2 {
   position: absolute;
