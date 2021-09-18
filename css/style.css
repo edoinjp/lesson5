@@ -4,13 +4,17 @@ body {
   margin-top: 135px;
 }
 .navline {
-  vertical-align: middle;
   display: inline-block;
   height: 50px;
+  margin-top: 10px;
+  vertical-align: middle;
 }
 .panelp {
-  vertical-align: middle;
   font-weight: bold;
+}
+.panelimg {
+  display: inline-block;
+  margin-top: 5px;
 }
 .logo1 {
   padding: 0 92px 17px 20px;
@@ -75,13 +79,12 @@ body {
 /* section 2  */
 
 .left2 {
-  margin-right: 0 auto;
   display: inline-block;
-  margin-right: 50px;
 }
 .right2 {
   display: inline-block;
   vertical-align: top;
+  margin-left: 50px;
 }
 .img3margin {
   padding: 102px 0;
@@ -201,10 +204,4 @@ body {
 }
 .icon {
   margin-right: 32px;
-}
-a {
-  text-decoration: none;
-}
-* {
-  box-sizing: border-box;
 }
